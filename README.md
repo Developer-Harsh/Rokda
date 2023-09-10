@@ -1,6 +1,6 @@
 # Rokda App
 
-![Rokda Logo](https://example.com/rokda-logo.png)
+![Rokda Logo](https://github.com/Developer-Harsh/HeyWalls/blob/master/Device/feature.png?raw=true)
 
 Rokda is your gateway to effortless earnings in the palm of your hand. Developed in September 2023 by the visionary Harsh Singh, the Rokda app is poised to reshape the way users accumulate income through a seamless blend of entertainment and opportunities.
 
@@ -26,9 +26,21 @@ Join the Rokda revolution today and unlock your potential for financial growth w
 
 Here are some screenshots of the Rokda app:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/first.png?raw=true)
+![Screenshot 2](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/second.png?raw=true)
+![Screenshot 3](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/third.png?raw=true)
+![Screenshot 4](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/fourth.png?raw=true)
+![Screenshot 5](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/fifth.png?raw=true)
+![Screenshot 6](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/sixth.png?raw=true)
+![Screenshot 7](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/seven.png?raw=true)
+
+## Community
+
+Join our active community of developers, designers, and enthusiasts on our [YouTube Podcast](https://youtube.com/@developerharsh). Share your experiences, exchange ideas, and collaborate on making HeyWalls even more exceptional.
+
+## License
+
+HeyWalls is released under the [MIT License](https://github.com/DeveloperHarsh/HeyWalls/LICENSE), granting you the freedom to modify and distribute the app while acknowledging its origins.
 
 ## Social Media
 
