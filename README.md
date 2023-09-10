@@ -42,7 +42,7 @@ Join our active community of developers, designers, and enthusiasts on our [YouT
 
 ## License
 
-Rokda is released under the [MIT License](https://github.com/DeveloperHarsh/HeyWalls/LICENSE), granting you the freedom to modify and distribute the app while acknowledging its origins.
+Rokda is released under the [MIT License](https://github.com/DeveloperHarsh/Rokda/LICENSE), granting you the freedom to modify and distribute the app while acknowledging its origins.
 
 ## Social Media
 
