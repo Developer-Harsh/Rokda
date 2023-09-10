@@ -1,6 +1,6 @@
 # Rokda App
 
-![Rokda Logo](https://github.com/Developer-Harsh/HeyWalls/blob/master/Device/feature.png?raw=true)
+![Rokda Logo](https://github.com/Developer-Harsh/Rokda/blob/master/Device/feature.png?raw=true)
 
 Rokda is your gateway to effortless earnings in the palm of your hand. Developed in September 2023 by the visionary Harsh Singh, the Rokda app is poised to reshape the way users accumulate income through a seamless blend of entertainment and opportunities.
 
@@ -26,13 +26,15 @@ Join the Rokda revolution today and unlock your potential for financial growth w
 
 Here are some screenshots of the Rokda app:
 
-![Screenshot 1](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/first.png?raw=true)
-![Screenshot 2](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/second.png?raw=true)
-![Screenshot 3](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/third.png?raw=true)
-![Screenshot 4](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/fourth.png?raw=true)
-![Screenshot 5](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/fifth.png?raw=true)
-![Screenshot 6](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/sixth.png?raw=true)
-![Screenshot 7](https://github.com/Developer-Harsh/HeyWalls/blob/master/SS/seven.png?raw=true)
+<div align="center">
+    <img src="https://github.com/Developer-Harsh/Rokda/blob/master/SS/first.png?raw=true" alt="Screenshot 1" height="300" />
+    <img src="https://github.com/Developer-Harsh/Rokda/blob/master/SS/second.png?raw=true" alt="Screenshot 2" height="300" />
+    <img src="https://github.com/Developer-Harsh/Rokda/blob/master/SS/third.png?raw=true" alt="Screenshot 3" height="300" />
+    <img src="https://github.com/Developer-Harsh/Rokda/blob/master/SS/fourth.png?raw=true" alt="Screenshot 4" height="300" />
+    <img src="https://github.com/Developer-Harsh/Rokda/blob/master/SS/fifth.png?raw=true" alt="Screenshot 5" height="300" />
+    <img src="https://github.com/Developer-Harsh/Rokda/blob/master/SS/sixth.png?raw=true" alt="Screenshot 6" height="300" />
+    <img src="https://github.com/Developer-Harsh/Rokda/blob/master/SS/seven.png?raw=true" alt="Screenshot 7" height="300" />
+</div>
 
 ## Community
 
@@ -40,7 +42,7 @@ Join our active community of developers, designers, and enthusiasts on our [YouT
 
 ## License
 
-HeyWalls is released under the [MIT License](https://github.com/DeveloperHarsh/HeyWalls/LICENSE), granting you the freedom to modify and distribute the app while acknowledging its origins.
+Rokda is released under the [MIT License](https://github.com/DeveloperHarsh/HeyWalls/LICENSE), granting you the freedom to modify and distribute the app while acknowledging its origins.
 
 ## Social Media
 
