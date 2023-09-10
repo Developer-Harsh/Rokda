@@ -36,14 +36,6 @@ Here are some screenshots of the Rokda app:
     <img src="https://github.com/Developer-Harsh/Rokda/blob/master/SS/seven.png?raw=true" alt="Screenshot 7" height="300" />
 </div>
 
-## Community
-
-Join our active community of developers, designers, and enthusiasts on our [YouTube Podcast](https://youtube.com/@developerharsh). Share your experiences, exchange ideas, and collaborate on making HeyWalls even more exceptional.
-
-## License
-
-Rokda is released under the [MIT License](https://github.com/DeveloperHarsh/Rokda/LICENSE), granting you the freedom to modify and distribute the app while acknowledging its origins.
-
 ## Social Media
 
 Follow us on social media for updates and promotions:
@@ -55,5 +47,13 @@ Use the hashtags #Rokda, #Earnings2023, #FinancialFreedom, #Innovation, #EarnSma
 For more information, visit our [website](https://play.google.com/store/apps/details?id=com.sneva.rokda).
 
 [Download Rokda](https://play.google.com/store/apps/details?id=com.sneva.rokda)
+
+## Community
+
+Join our active community of developers, designers, and enthusiasts on our [YouTube Podcast](https://youtube.com/@developerharsh). Share your experiences, exchange ideas, and collaborate on making HeyWalls even more exceptional.
+
+## License
+
+Rokda is released under the [MIT License](https://github.com/DeveloperHarsh/Rokda/LICENSE), granting you the freedom to modify and distribute the app while acknowledging its origins.
 
 ---
